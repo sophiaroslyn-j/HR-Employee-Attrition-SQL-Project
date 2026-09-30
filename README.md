@@ -3,7 +3,7 @@
 HR Employee Attrition & Analytics using SQL
 
 **Project Overview**
-A HR Analytics portfolio project using MySQL to analyze employee demographics, salary, satisfaction, performance, tenure and attrition.
+An HR Analytics portfolio project using MySQL to analyze employee demographics, salary, satisfaction, performance, tenure and attrition.
 
 **Business Objective**
 The project demonstrates how SQL can be used to answer common HR questions around:
