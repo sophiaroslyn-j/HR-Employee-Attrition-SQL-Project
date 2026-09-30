@@ -1,9 +1,11 @@
 # HR-Employee-Attrition-SQL-Project
-A HR Analytics portfolio project using MySQL to analyze employee demographics, salary, satisfaction, performance, tenure and attrition.
+
 HR Employee Attrition & Analytics using SQL
-Project Overview
+
+**Project Overview**
 A HR Analytics portfolio project using MySQL to analyze employee demographics, salary, satisfaction, performance, tenure and attrition.
-Business Objective
+
+**Business Objective**
 The project demonstrates how SQL can be used to answer common HR questions around:
 Employee attrition
 Workforce distribution
@@ -13,16 +15,22 @@ Employee performance
 Tenure
 Training
 Overtime
-Dataset
+
+**Dataset**
+
 The project contains 500 synthetic employee records.
-Main fields
+
+**Main fields**
 Employee_ID, Age, Gender, Department, Job_Role, City, Education_Level, Employment_Type, Years_at_Company, Monthly_Salary, Job_Satisfaction, Performance_Rating, Work_Mode, Overtime, Training_Hours, Promotion_Last_3Yrs, Attrition.
-Tools
+
+**Tools**
 MySQL Workbench
 GitHub
-SQL Concepts
+
+**SQL Concepts**
 SELECT, WHERE, GROUP BY, ORDER BY, HAVING, CASE, aggregate functions, subqueries, CTEs and window functions.
-Project Workflow
+
+**Project Workflow**
 Create database.
 Create employee table.
 Import CSV dataset.
@@ -48,7 +56,6 @@ HR-Employee-Attrition-SQL-Project/
 │   ├── 06\\_salary\\_analysis.sql
 │   ├── 07\\_department\\_analysis.sql
 │   ├── 08\\_advanced\\_hr\\_insights.sql
-│   └── SQL\\_PRACTICE\\_QUESTIONS.md
 └── insights/
     └── hr\\_insights.md
 ```
