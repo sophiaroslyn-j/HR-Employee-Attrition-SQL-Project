@@ -41,8 +41,6 @@ Go ahead and Write 3–5 observations based on the actual SQL results you get.
 Example:
 "Employees with lower satisfaction showed a higher observed attrition rate in this dataset."
 
-Avoid claiming that a relationship is causal unless the analysis supports causality.
-
 ## 6\. HR Actions to Discuss
 
 Based on the findings, consider the following:
