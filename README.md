@@ -58,11 +58,14 @@ HR-Employee-Attrition-SQL-Project/
 └── insights/
     └── hr\\_insights.md
 ```
-**Portfolio Goal**
-└── This project developed to demonstrate practical SQL skills for Business Analyst, Data Analyst HR Analyst and  People Analytics roles.
-**Important Note**
-└── The dataset is synthetic and created for learning/portfolio practice. Findings should not be treated as real-world HR evidence.
+**Portfolio Goal**          
 
-**Author
-└── Sophia Roslyn Joseph**
-└── **Data Analyst | Business Analyst | HR & Analytics Consultant Professional**
+  This project developed to demonstrate practical SQL skills for Business Analyst, Data Analyst HR Analyst and  People Analytics roles.
+**Important Note**
+
+  The dataset is synthetic and created for learning/portfolio practice. Findings should not be treated as real-world HR evidence.
+
+**Author**
+**Sophia Roslyn Joseph**
+
+**Data Analyst | Business Analyst | HR & Analytics Consultant Professional**
