@@ -1,4 +1,4 @@
-# HR Insights Template
+# HR Analytics Insights 
 
 Use this file after running the SQL queries and practise the same to verify.
 
