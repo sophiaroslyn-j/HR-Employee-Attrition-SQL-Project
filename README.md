@@ -24,7 +24,8 @@ The project contains 500 synthetic employee records.
 Employee_ID, Age, Gender, Department, Job_Role, City, Education_Level, Employment_Type, Years_at_Company, Monthly_Salary, Job_Satisfaction, Performance_Rating, Work_Mode, Overtime, Training_Hours, Promotion_Last_3Yrs, Attrition.
 
 **Tools**
-├── MySQL Workbench
+
+MySQL Workbench
 
 **SQL Concepts**
 SELECT, WHERE, GROUP BY, ORDER BY, HAVING, CASE, aggregate functions, subqueries, CTEs and window functions.
