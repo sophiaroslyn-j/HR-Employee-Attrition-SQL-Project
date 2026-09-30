@@ -24,8 +24,7 @@ The project contains 500 synthetic employee records.
 Employee_ID, Age, Gender, Department, Job_Role, City, Education_Level, Employment_Type, Years_at_Company, Monthly_Salary, Job_Satisfaction, Performance_Rating, Work_Mode, Overtime, Training_Hours, Promotion_Last_3Yrs, Attrition.
 
 **Tools**
-MySQL Workbench
-GitHub
+├── MySQL Workbench
 
 **SQL Concepts**
 SELECT, WHERE, GROUP BY, ORDER BY, HAVING, CASE, aggregate functions, subqueries, CTEs and window functions.
@@ -60,10 +59,10 @@ HR-Employee-Attrition-SQL-Project/
     └── hr\\_insights.md
 ```
 **Portfolio Goal**
-This project developed to demonstrate practical SQL skills for Business Analyst, Data Analyst HR Analyst and  People Analytics roles.
+└── This project developed to demonstrate practical SQL skills for Business Analyst, Data Analyst HR Analyst and  People Analytics roles.
 **Important Note**
-The dataset is synthetic and created for learning/portfolio practice. Findings should not be treated as real-world HR evidence.
+└── The dataset is synthetic and created for learning/portfolio practice. Findings should not be treated as real-world HR evidence.
 
 **Author
-Sophia Roslyn Joseph**
-**Data Analyst | Business Analyst | HR & Analytics Consultant Professional**
+└── Sophia Roslyn Joseph**
+└── **Data Analyst | Business Analyst | HR & Analytics Consultant Professional**
