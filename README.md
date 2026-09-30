@@ -59,9 +59,9 @@ HR-Employee-Attrition-SQL-Project/
 └── insights/
     └── hr\\_insights.md
 ```
-Portfolio Goal
+**Portfolio Goal**
 This project developed to demonstrate practical SQL skills for Business Analyst, Data Analyst HR Analyst and  People Analytics roles.
-Important Note
+**Important Note**
 The dataset is synthetic and created for learning/portfolio practice. Findings should not be treated as real-world HR evidence.
 
 **Author
