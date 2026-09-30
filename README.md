@@ -66,6 +66,7 @@ HR-Employee-Attrition-SQL-Project/
   The dataset is synthetic and created for learning/portfolio practice. Findings should not be treated as real-world HR evidence.
 
 **Author**
+
 **Sophia Roslyn Joseph**
 
 **Data Analyst | Business Analyst | HR & Analytics Consultant Professional**
