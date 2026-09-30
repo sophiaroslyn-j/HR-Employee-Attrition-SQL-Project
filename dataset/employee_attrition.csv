@@ -1,0 +1,501 @@
+Employee_ID,Age,Gender,Department,Job_Role,City,Education_Level,Employment_Type,Years_at_Company,Monthly_Salary,Job_Satisfaction,Performance_Rating,Work_Mode,Overtime,Training_Hours,Promotion_Last_3Yrs,Attrition
+E0001,36,Male,Finance,Financial Analyst,Bengaluru,Master,Contract,10,81027,3,2,Onsite,No,44,Yes,No
+E0002,33,Female,Marketing,Marketing Executive,Delhi,Bachelor,Full-Time,9,73431,3,3,Hybrid,No,46,No,Yes
+E0003,24,Male,Marketing,Marketing Executive,Mumbai,Bachelor,Full-Time,4,41016,1,5,Hybrid,No,13,No,Yes
+E0004,38,Male,HR,HR Analyst,Bengaluru,MBA,Contract,3,64793,2,4,Remote,No,58,No,No
+E0005,36,Male,Sales,Sales Manager,Mumbai,Bachelor,Full-Time,7,107077,5,4,Onsite,No,28,No,No
+E0006,45,Female,HR,HR Executive,Hyderabad,Bachelor,Full-Time,0,64576,2,1,Onsite,No,21,No,No
+E0007,33,Male,Operations,Quality Analyst,Pune,Other,Full-Time,1,55111,4,4,Hybrid,No,26,No,No
+E0008,30,Female,IT,Business Analyst,Mumbai,MBA,Full-Time,14,79257,3,1,Hybrid,Yes,43,Yes,No
+E0009,34,Male,Operations,Quality Analyst,Delhi,MBA,Full-Time,15,101794,5,4,Onsite,No,32,Yes,No
+E0010,22,Male,IT,Software Engineer,Pune,Master,Full-Time,8,84601,4,1,Onsite,No,10,Yes,No
+E0011,33,Male,IT,Software Engineer,Chennai,Master,Full-Time,13,97837,2,5,Hybrid,Yes,32,No,Yes
+E0012,53,Female,Finance,Accountant,Delhi,Master,Full-Time,6,76742,4,4,Remote,Yes,28,No,No
+E0013,24,Female,IT,IT Manager,Bengaluru,MBA,Full-Time,3,82277,4,4,Hybrid,No,11,No,No
+E0014,28,Female,IT,Data Analyst,Pune,MBA,Full-Time,11,73400,2,5,Onsite,No,5,Yes,Yes
+E0015,24,Female,Operations,Quality Analyst,Delhi,MBA,Contract,3,63729,4,2,Onsite,Yes,42,No,No
+E0016,37,Female,IT,Data Analyst,Hyderabad,Master,Full-Time,12,84344,3,4,Onsite,Yes,24,Yes,No
+E0017,43,Male,Finance,Finance Executive,Pune,Bachelor,Full-Time,13,73285,3,5,Hybrid,No,37,Yes,No
+E0018,38,Male,Operations,Quality Analyst,Delhi,Other,Contract,11,79703,5,5,Remote,No,45,Yes,No
+E0019,53,Female,IT,IT Manager,Delhi,Bachelor,Full-Time,6,97254,3,3,Onsite,No,50,No,No
+E0020,30,Female,IT,Software Engineer,Bengaluru,Bachelor,Full-Time,10,67132,4,3,Onsite,No,54,No,No
+E0021,37,Female,HR,HR Analyst,Delhi,Master,Full-Time,13,80920,3,2,Onsite,No,29,Yes,No
+E0022,54,Male,Operations,Process Analyst,Hyderabad,Master,Full-Time,7,76851,4,3,Remote,No,49,Yes,No
+E0023,40,Female,Sales,Sales Analyst,Chennai,Bachelor,Full-Time,0,43882,4,3,Onsite,Yes,27,No,No
+E0024,46,Male,Sales,Sales Manager,Mumbai,Master,Full-Time,7,83479,5,4,Onsite,No,9,No,No
+E0025,26,Male,IT,IT Support,Delhi,Master,Full-Time,14,68782,2,3,Onsite,No,34,Yes,No
+E0026,53,Male,Sales,Sales Analyst,Hyderabad,MBA,Full-Time,0,70912,3,4,Hybrid,No,20,No,No
+E0027,33,Male,IT,IT Manager,Hyderabad,Bachelor,Full-Time,2,93662,2,3,Hybrid,Yes,50,No,Yes
+E0028,55,Male,Sales,Sales Analyst,Chennai,MBA,Full-Time,2,68415,3,2,Onsite,No,49,No,No
+E0029,39,Male,Operations,Quality Analyst,Delhi,MBA,Full-Time,0,49311,5,4,Hybrid,No,17,No,No
+E0030,40,Female,IT,Business Analyst,Mumbai,Master,Full-Time,0,64876,1,5,Hybrid,No,13,No,No
+E0031,42,Male,IT,Software Engineer,Pune,Bachelor,Full-Time,3,82016,5,4,Remote,No,21,No,No
+E0032,40,Male,IT,IT Manager,Mumbai,Bachelor,Full-Time,7,103838,3,3,Hybrid,No,29,No,No
+E0033,40,Female,Finance,Accountant,Mumbai,Other,Full-Time,6,54715,3,3,Onsite,No,45,No,No
+E0034,27,Female,Operations,Process Analyst,Mumbai,Master,Contract,9,71211,1,5,Hybrid,Yes,58,No,No
+E0035,36,Male,Sales,Sales Analyst,Mumbai,Master,Full-Time,14,98012,5,5,Onsite,Yes,28,No,No
+E0036,48,Female,IT,IT Manager,Pune,MBA,Full-Time,5,90035,1,3,Hybrid,No,52,No,No
+E0037,51,Female,Marketing,Marketing Analyst,Chennai,Other,Full-Time,1,46730,3,4,Remote,No,51,No,No
+E0038,22,Female,Finance,Finance Executive,Pune,MBA,Full-Time,4,52411,1,4,Onsite,No,42,No,No
+E0039,22,Female,Finance,Accountant,Bengaluru,Master,Full-Time,2,51987,5,4,Onsite,Yes,35,No,Yes
+E0040,26,Female,Operations,Quality Analyst,Hyderabad,Bachelor,Full-Time,13,77896,5,3,Onsite,Yes,19,Yes,No
+E0041,39,Female,IT,Data Analyst,Pune,MBA,Full-Time,13,76217,4,3,Remote,No,34,No,No
+E0042,45,Female,Operations,Quality Analyst,Hyderabad,Bachelor,Full-Time,4,64789,5,3,Onsite,No,52,No,No
+E0043,53,Male,IT,Business Analyst,Pune,Master,Full-Time,2,63376,4,3,Onsite,No,22,No,No
+E0044,35,Male,Marketing,Marketing Executive,Pune,Bachelor,Full-Time,9,61928,4,1,Onsite,No,51,No,No
+E0045,36,Male,Sales,Sales Manager,Hyderabad,MBA,Full-Time,14,113462,4,3,Hybrid,No,18,No,No
+E0046,36,Female,HR,HR Analyst,Chennai,MBA,Full-Time,15,68433,3,3,Hybrid,Yes,43,Yes,Yes
+E0047,39,Female,Operations,Operations Executive,Bengaluru,Bachelor,Full-Time,14,86083,4,4,Onsite,No,41,Yes,No
+E0048,43,Female,Marketing,Marketing Executive,Hyderabad,Master,Full-Time,4,55522,2,3,Remote,Yes,34,Yes,Yes
+E0049,41,Female,HR,HR Analyst,Delhi,Other,Full-Time,11,79125,4,4,Onsite,No,30,No,No
+E0050,22,Male,Operations,Quality Analyst,Bengaluru,Master,Full-Time,9,78636,4,2,Hybrid,No,17,No,No
+E0051,41,Female,IT,Data Analyst,Delhi,MBA,Contract,0,54390,4,4,Onsite,Yes,9,No,No
+E0052,43,Male,Finance,Financial Analyst,Hyderabad,Master,Full-Time,11,70497,4,2,Onsite,No,34,Yes,No
+E0053,39,Female,Operations,Operations Executive,Bengaluru,Master,Contract,7,72465,5,4,Hybrid,No,37,No,No
+E0054,24,Female,HR,HR Analyst,Mumbai,Other,Full-Time,6,64813,4,4,Hybrid,Yes,37,No,No
+E0055,25,Male,Operations,Operations Executive,Pune,Master,Full-Time,5,52560,4,2,Hybrid,No,49,Yes,No
+E0056,52,Female,Operations,Operations Manager,Delhi,Bachelor,Full-Time,2,105048,4,3,Onsite,Yes,9,No,No
+E0057,34,Male,Sales,Sales Analyst,Bengaluru,MBA,Full-Time,7,91188,1,4,Onsite,No,8,No,No
+E0058,43,Male,HR,HR Analyst,Delhi,Master,Full-Time,10,78098,3,2,Hybrid,No,58,No,No
+E0059,31,Male,HR,HR Executive,Bengaluru,MBA,Full-Time,3,52640,2,3,Onsite,No,42,No,No
+E0060,45,Male,Marketing,Marketing Analyst,Pune,Master,Contract,8,83810,3,3,Hybrid,No,47,Yes,No
+E0061,49,Male,Sales,Sales Analyst,Chennai,Bachelor,Full-Time,14,85805,4,2,Hybrid,No,23,Yes,No
+E0062,23,Male,HR,HR Analyst,Hyderabad,Bachelor,Full-Time,5,67345,3,3,Hybrid,No,5,Yes,No
+E0063,49,Female,Finance,Finance Executive,Hyderabad,MBA,Full-Time,15,82953,1,3,Hybrid,Yes,12,No,Yes
+E0064,35,Male,Operations,Quality Analyst,Bengaluru,Bachelor,Full-Time,15,98808,5,4,Onsite,No,25,No,No
+E0065,40,Male,HR,HR Executive,Mumbai,Master,Full-Time,3,60222,5,4,Hybrid,No,6,No,No
+E0066,43,Male,Finance,Finance Manager,Delhi,Master,Full-Time,11,117345,2,4,Hybrid,No,36,No,No
+E0067,25,Male,IT,Business Analyst,Pune,Master,Full-Time,9,63848,3,1,Onsite,No,40,Yes,No
+E0068,48,Female,HR,HR Executive,Bengaluru,Bachelor,Full-Time,8,60456,3,4,Hybrid,Yes,57,No,No
+E0069,22,Male,IT,Business Analyst,Hyderabad,MBA,Full-Time,2,60651,1,4,Remote,No,40,No,No
+E0070,41,Female,IT,Software Engineer,Bengaluru,Bachelor,Full-Time,2,62508,4,2,Hybrid,No,49,No,No
+E0071,46,Female,Finance,Finance Executive,Pune,MBA,Full-Time,6,63578,5,4,Hybrid,No,16,No,No
+E0072,46,Female,Marketing,Marketing Analyst,Bengaluru,Master,Contract,11,74147,3,5,Onsite,No,14,Yes,No
+E0073,29,Female,Sales,Sales Executive,Hyderabad,Master,Full-Time,1,55733,4,2,Remote,No,46,No,No
+E0074,44,Female,Sales,Sales Analyst,Bengaluru,MBA,Full-Time,11,76144,4,4,Hybrid,No,17,No,No
+E0075,34,Female,Marketing,Digital Marketing Specialist,Mumbai,Other,Full-Time,12,83847,1,1,Hybrid,Yes,57,Yes,No
+E0076,22,Male,Finance,Financial Analyst,Chennai,MBA,Full-Time,13,82138,1,3,Onsite,No,22,No,No
+E0077,33,Male,Finance,Finance Manager,Mumbai,MBA,Full-Time,10,105591,5,5,Remote,No,29,No,No
+E0078,55,Male,IT,Business Analyst,Chennai,MBA,Contract,8,65582,3,3,Onsite,No,9,Yes,No
+E0079,39,Male,Finance,Accountant,Mumbai,Master,Full-Time,13,102603,4,1,Remote,No,15,No,No
+E0080,46,Female,HR,Recruiter,Pune,Bachelor,Full-Time,4,51139,4,3,Onsite,Yes,9,Yes,Yes
+E0081,53,Female,Operations,Quality Analyst,Mumbai,MBA,Full-Time,13,93847,3,4,Hybrid,No,10,Yes,No
+E0082,48,Male,Operations,Operations Executive,Hyderabad,Bachelor,Contract,5,55916,2,4,Onsite,No,35,No,No
+E0083,50,Male,Sales,Sales Executive,Bengaluru,Bachelor,Full-Time,11,67824,4,3,Hybrid,No,39,No,No
+E0084,50,Female,IT,IT Manager,Delhi,Bachelor,Full-Time,5,96394,5,4,Onsite,Yes,21,Yes,No
+E0085,50,Male,Operations,Quality Analyst,Bengaluru,Bachelor,Full-Time,11,74449,4,1,Remote,Yes,19,Yes,No
+E0086,36,Male,HR,HR Executive,Chennai,Other,Full-Time,6,58406,4,3,Hybrid,No,24,No,No
+E0087,41,Female,Marketing,Marketing Executive,Mumbai,Master,Full-Time,5,50078,3,3,Hybrid,No,39,No,Yes
+E0088,38,Male,IT,Software Engineer,Mumbai,Other,Full-Time,12,99568,4,4,Hybrid,No,7,No,No
+E0089,38,Male,HR,Recruiter,Pune,Bachelor,Full-Time,13,70850,2,3,Hybrid,Yes,57,No,No
+E0090,52,Female,Finance,Finance Executive,Chennai,Bachelor,Contract,5,68307,3,4,Onsite,No,12,No,No
+E0091,49,Male,Finance,Accountant,Mumbai,Bachelor,Full-Time,3,71659,5,2,Remote,No,45,No,No
+E0092,36,Female,IT,Data Analyst,Chennai,Bachelor,Full-Time,1,51583,1,4,Hybrid,No,7,No,No
+E0093,49,Female,Operations,Process Analyst,Chennai,Bachelor,Full-Time,13,88003,3,4,Hybrid,No,26,No,No
+E0094,34,Male,Sales,Sales Manager,Hyderabad,Bachelor,Full-Time,8,113717,5,3,Hybrid,No,12,Yes,No
+E0095,24,Male,IT,Software Engineer,Mumbai,Master,Full-Time,11,89414,1,1,Hybrid,Yes,34,No,No
+E0096,53,Female,Sales,Sales Analyst,Hyderabad,Master,Contract,8,63906,3,4,Onsite,No,38,No,No
+E0097,42,Female,Sales,Sales Manager,Pune,Bachelor,Full-Time,14,122169,3,4,Hybrid,No,6,Yes,No
+E0098,46,Female,Sales,Account Manager,Chennai,MBA,Full-Time,3,85503,4,3,Remote,No,32,No,No
+E0099,31,Female,Finance,Finance Executive,Chennai,Bachelor,Full-Time,2,30091,3,4,Onsite,Yes,9,No,No
+E0100,33,Male,Sales,Account Manager,Bengaluru,Other,Full-Time,4,88208,4,4,Onsite,No,10,No,No
+E0101,27,Male,HR,HR Executive,Chennai,Master,Full-Time,4,49185,3,2,Hybrid,Yes,28,No,No
+E0102,44,Female,Sales,Sales Analyst,Bengaluru,Bachelor,Full-Time,11,83011,3,2,Onsite,Yes,54,Yes,No
+E0103,22,Female,IT,Data Analyst,Delhi,MBA,Full-Time,6,67761,1,3,Remote,No,53,No,Yes
+E0104,26,Female,Operations,Quality Analyst,Pune,MBA,Full-Time,8,74270,2,4,Hybrid,No,13,Yes,No
+E0105,25,Male,Operations,Operations Executive,Chennai,Bachelor,Full-Time,5,60662,5,3,Hybrid,No,58,Yes,No
+E0106,54,Female,Finance,Financial Analyst,Bengaluru,MBA,Full-Time,0,53819,4,3,Hybrid,Yes,15,No,No
+E0107,27,Female,Marketing,Marketing Analyst,Hyderabad,Bachelor,Full-Time,11,67388,4,3,Onsite,No,10,No,No
+E0108,36,Male,Sales,Sales Manager,Pune,Bachelor,Full-Time,8,88614,4,3,Hybrid,Yes,23,No,Yes
+E0109,51,Female,Sales,Sales Manager,Chennai,Master,Full-Time,1,89887,4,3,Remote,Yes,48,No,Yes
+E0110,22,Female,Finance,Finance Executive,Bengaluru,Bachelor,Full-Time,11,65635,1,4,Hybrid,No,58,No,No
+E0111,45,Female,Operations,Quality Analyst,Chennai,Bachelor,Full-Time,15,74245,3,4,Onsite,No,29,No,No
+E0112,42,Male,Operations,Operations Executive,Delhi,Master,Full-Time,0,45188,2,3,Onsite,Yes,11,No,No
+E0113,39,Female,IT,IT Manager,Bengaluru,MBA,Full-Time,2,73520,4,1,Onsite,No,50,No,No
+E0114,24,Female,Sales,Sales Manager,Mumbai,Bachelor,Full-Time,8,85819,3,3,Remote,No,53,Yes,No
+E0115,24,Female,Sales,Sales Analyst,Chennai,Bachelor,Full-Time,5,71907,4,3,Hybrid,Yes,40,No,No
+E0116,38,Male,Operations,Quality Analyst,Mumbai,MBA,Full-Time,15,104545,4,4,Remote,No,32,Yes,No
+E0117,43,Male,Sales,Sales Analyst,Pune,Bachelor,Full-Time,1,60814,4,3,Remote,Yes,18,No,Yes
+E0118,24,Male,Sales,Account Manager,Delhi,Master,Full-Time,3,94453,3,5,Hybrid,No,10,No,No
+E0119,39,Male,Finance,Accountant,Hyderabad,Master,Full-Time,12,89212,5,4,Remote,No,13,Yes,No
+E0120,23,Male,Sales,Sales Executive,Hyderabad,Other,Full-Time,8,57132,3,3,Hybrid,No,20,Yes,No
+E0121,55,Female,IT,IT Manager,Pune,Bachelor,Full-Time,3,95915,3,3,Onsite,No,22,No,No
+E0122,40,Female,Finance,Financial Analyst,Hyderabad,Bachelor,Full-Time,1,57658,3,2,Hybrid,No,35,No,No
+E0123,54,Male,IT,IT Support,Pune,MBA,Full-Time,3,35767,3,3,Onsite,Yes,40,No,No
+E0124,43,Female,Finance,Finance Manager,Pune,MBA,Full-Time,13,118921,2,3,Hybrid,No,31,Yes,No
+E0125,47,Male,IT,IT Manager,Mumbai,Bachelor,Full-Time,1,77047,1,2,Onsite,No,53,No,No
+E0126,39,Female,Operations,Quality Analyst,Chennai,Master,Contract,7,74759,4,4,Hybrid,No,46,No,No
+E0127,31,Male,HR,HR Executive,Pune,Bachelor,Full-Time,1,62537,4,4,Hybrid,No,19,No,No
+E0128,29,Female,Sales,Sales Executive,Bengaluru,Master,Contract,8,54451,4,4,Remote,No,21,Yes,No
+E0129,49,Female,Marketing,Digital Marketing Specialist,Chennai,Other,Full-Time,2,66478,3,1,Onsite,Yes,32,No,No
+E0130,35,Male,IT,IT Support,Bengaluru,Master,Full-Time,8,63711,4,3,Hybrid,Yes,25,No,Yes
+E0131,55,Male,Operations,Quality Analyst,Hyderabad,MBA,Full-Time,10,69953,3,3,Onsite,No,56,Yes,No
+E0132,33,Female,Operations,Operations Manager,Mumbai,Bachelor,Full-Time,8,104314,4,4,Hybrid,Yes,50,No,No
+E0133,50,Male,IT,IT Support,Pune,Master,Full-Time,12,65597,4,4,Onsite,Yes,28,No,No
+E0134,51,Female,Sales,Sales Executive,Hyderabad,Other,Full-Time,6,54469,4,4,Hybrid,No,20,Yes,No
+E0135,46,Female,Operations,Operations Manager,Delhi,MBA,Full-Time,9,111253,4,4,Hybrid,No,40,No,Yes
+E0136,32,Female,Operations,Quality Analyst,Bengaluru,MBA,Full-Time,15,92963,2,3,Hybrid,No,8,No,No
+E0137,42,Male,Finance,Finance Manager,Bengaluru,Master,Full-Time,9,91831,4,2,Hybrid,No,18,No,No
+E0138,40,Female,Sales,Sales Analyst,Delhi,Bachelor,Full-Time,14,96531,1,3,Hybrid,No,28,Yes,No
+E0139,54,Male,Finance,Accountant,Mumbai,Master,Full-Time,1,52247,4,4,Hybrid,No,58,No,No
+E0140,32,Female,Marketing,Marketing Manager,Delhi,MBA,Full-Time,6,96744,4,4,Hybrid,Yes,54,Yes,No
+E0141,40,Female,IT,IT Manager,Delhi,Master,Full-Time,9,101302,3,3,Hybrid,No,9,No,No
+E0142,52,Male,Operations,Process Analyst,Hyderabad,Bachelor,Full-Time,3,66094,4,5,Remote,Yes,48,No,Yes
+E0143,46,Male,Finance,Finance Executive,Delhi,MBA,Full-Time,12,62298,5,2,Hybrid,No,25,No,No
+E0144,28,Female,Marketing,Digital Marketing Specialist,Bengaluru,Bachelor,Full-Time,4,56682,1,3,Onsite,Yes,25,No,No
+E0145,54,Female,Marketing,Marketing Manager,Bengaluru,Master,Full-Time,1,82037,2,4,Hybrid,No,28,No,Yes
+E0146,27,Male,Sales,Sales Analyst,Hyderabad,Master,Full-Time,1,71049,3,3,Onsite,No,52,No,No
+E0147,31,Male,Sales,Sales Manager,Delhi,Bachelor,Full-Time,2,83909,2,3,Remote,No,26,No,Yes
+E0148,47,Male,Sales,Sales Manager,Hyderabad,Bachelor,Full-Time,0,78206,1,2,Hybrid,No,12,No,No
+E0149,26,Female,Finance,Finance Executive,Delhi,Master,Full-Time,2,41918,2,3,Hybrid,No,41,No,No
+E0150,37,Male,Operations,Operations Manager,Pune,Master,Full-Time,2,85045,3,4,Onsite,Yes,42,No,No
+E0151,40,Male,Operations,Process Analyst,Delhi,Other,Full-Time,15,90891,3,5,Onsite,No,34,Yes,No
+E0152,54,Male,Sales,Account Manager,Chennai,MBA,Full-Time,3,86989,4,4,Hybrid,Yes,9,No,No
+E0153,23,Female,IT,Business Analyst,Delhi,Master,Full-Time,14,74512,3,4,Remote,No,52,No,No
+E0154,32,Female,Operations,Process Analyst,Mumbai,Master,Full-Time,8,81807,3,3,Onsite,No,34,No,No
+E0155,27,Female,HR,Recruiter,Mumbai,Bachelor,Full-Time,8,72976,2,3,Onsite,Yes,57,No,No
+E0156,54,Male,Marketing,Digital Marketing Specialist,Delhi,Bachelor,Contract,5,59786,4,3,Onsite,Yes,42,No,No
+E0157,45,Female,Finance,Financial Analyst,Delhi,Master,Full-Time,13,81714,5,3,Hybrid,No,13,No,No
+E0158,35,Male,IT,IT Support,Hyderabad,Bachelor,Full-Time,7,58984,4,3,Hybrid,Yes,37,Yes,No
+E0159,25,Male,Sales,Account Manager,Mumbai,Master,Contract,11,112840,4,4,Remote,Yes,33,Yes,No
+E0160,41,Male,Sales,Sales Executive,Chennai,Bachelor,Full-Time,4,58442,4,2,Onsite,Yes,8,No,No
+E0161,36,Male,Marketing,Marketing Analyst,Mumbai,Bachelor,Full-Time,8,64213,2,5,Remote,No,55,No,No
+E0162,48,Male,IT,Data Analyst,Bengaluru,MBA,Full-Time,6,64217,5,3,Hybrid,No,22,No,No
+E0163,35,Male,Finance,Financial Analyst,Mumbai,Bachelor,Full-Time,2,48452,4,3,Hybrid,No,53,No,No
+E0164,30,Male,IT,Data Analyst,Hyderabad,Bachelor,Full-Time,7,48032,2,4,Remote,Yes,43,Yes,No
+E0165,40,Male,IT,IT Support,Hyderabad,Bachelor,Full-Time,11,67122,3,4,Hybrid,No,32,No,No
+E0166,39,Female,HR,HR Manager,Mumbai,MBA,Full-Time,1,93735,2,3,Onsite,No,22,No,Yes
+E0167,50,Female,Operations,Process Analyst,Hyderabad,Master,Full-Time,8,79476,4,3,Hybrid,Yes,43,Yes,No
+E0168,38,Female,Marketing,Marketing Analyst,Chennai,Master,Full-Time,8,75195,3,3,Remote,No,30,No,No
+E0169,30,Male,Sales,Sales Analyst,Bengaluru,Bachelor,Full-Time,4,66030,3,3,Hybrid,No,45,No,No
+E0170,49,Female,Sales,Sales Analyst,Mumbai,Bachelor,Full-Time,4,72735,4,2,Hybrid,No,23,No,Yes
+E0171,26,Female,Sales,Sales Executive,Hyderabad,Other,Full-Time,7,46908,5,3,Onsite,No,9,Yes,No
+E0172,48,Male,HR,HR Manager,Bengaluru,Bachelor,Full-Time,9,99764,3,3,Hybrid,Yes,46,No,No
+E0173,50,Female,Marketing,Marketing Executive,Delhi,Bachelor,Full-Time,12,59260,1,5,Onsite,No,45,No,No
+E0174,42,Male,Operations,Operations Executive,Hyderabad,Bachelor,Full-Time,13,73403,4,3,Onsite,No,5,No,No
+E0175,39,Male,Operations,Operations Manager,Hyderabad,MBA,Full-Time,7,109455,3,4,Hybrid,Yes,41,No,No
+E0176,32,Female,Operations,Operations Executive,Bengaluru,Other,Full-Time,6,49808,2,4,Remote,Yes,16,No,No
+E0177,32,Female,Sales,Sales Analyst,Bengaluru,Bachelor,Full-Time,0,39573,4,5,Hybrid,No,21,No,No
+E0178,30,Male,Operations,Operations Manager,Pune,Master,Full-Time,7,116859,5,3,Remote,No,23,No,No
+E0179,43,Male,HR,HR Manager,Hyderabad,Bachelor,Contract,12,130437,4,4,Onsite,No,34,No,No
+E0180,22,Female,HR,Recruiter,Chennai,MBA,Full-Time,3,58510,4,4,Hybrid,Yes,44,No,No
+E0181,55,Male,HR,HR Executive,Pune,Bachelor,Full-Time,13,78775,1,3,Hybrid,No,17,No,No
+E0182,37,Female,HR,HR Analyst,Delhi,Bachelor,Full-Time,5,56416,1,2,Onsite,No,38,Yes,No
+E0183,22,Female,Sales,Account Manager,Delhi,Master,Full-Time,0,85670,4,3,Hybrid,No,26,No,No
+E0184,35,Male,Sales,Sales Analyst,Hyderabad,MBA,Full-Time,1,57396,4,4,Hybrid,No,26,No,No
+E0185,55,Female,IT,Data Analyst,Pune,MBA,Full-Time,14,80477,3,4,Onsite,Yes,45,No,No
+E0186,25,Female,Sales,Sales Analyst,Pune,Bachelor,Full-Time,3,61730,5,5,Hybrid,No,10,No,No
+E0187,31,Male,Marketing,Marketing Executive,Mumbai,MBA,Full-Time,14,77239,4,5,Onsite,No,51,No,No
+E0188,49,Female,Finance,Finance Manager,Pune,Bachelor,Full-Time,15,111060,3,3,Remote,Yes,48,Yes,Yes
+E0189,32,Female,IT,Software Engineer,Delhi,Master,Full-Time,5,68679,4,4,Hybrid,No,11,Yes,No
+E0190,42,Female,IT,IT Support,Delhi,Bachelor,Contract,11,67303,1,4,Remote,No,57,No,No
+E0191,31,Male,Operations,Process Analyst,Bengaluru,Master,Full-Time,2,37620,3,4,Hybrid,Yes,47,No,No
+E0192,49,Male,Operations,Quality Analyst,Pune,Bachelor,Full-Time,9,73176,5,3,Onsite,Yes,45,No,Yes
+E0193,37,Male,Sales,Sales Manager,Pune,Bachelor,Full-Time,15,126403,5,4,Onsite,Yes,37,No,No
+E0194,55,Female,IT,Data Analyst,Mumbai,Master,Contract,11,67712,3,2,Onsite,No,44,No,No
+E0195,47,Male,Finance,Finance Executive,Mumbai,Master,Full-Time,11,73279,4,3,Remote,Yes,12,No,No
+E0196,52,Male,IT,IT Support,Bengaluru,Bachelor,Full-Time,8,59740,4,4,Onsite,No,45,No,No
+E0197,26,Male,Marketing,Marketing Analyst,Pune,Bachelor,Full-Time,5,73152,3,3,Remote,No,34,Yes,No
+E0198,52,Female,Operations,Operations Manager,Chennai,Bachelor,Full-Time,11,103950,4,2,Remote,No,60,No,No
+E0199,47,Male,IT,Data Analyst,Bengaluru,Master,Full-Time,5,70664,5,5,Onsite,No,6,No,No
+E0200,38,Male,Sales,Account Manager,Mumbai,Bachelor,Full-Time,10,102060,5,4,Onsite,No,41,No,Yes
+E0201,29,Female,IT,Data Analyst,Bengaluru,Other,Full-Time,15,86692,1,3,Hybrid,No,13,Yes,No
+E0202,41,Male,Finance,Finance Manager,Mumbai,Master,Full-Time,4,86380,1,2,Remote,No,21,Yes,No
+E0203,41,Female,Marketing,Marketing Analyst,Hyderabad,Master,Full-Time,3,54766,5,2,Onsite,No,45,No,No
+E0204,28,Male,Operations,Operations Executive,Mumbai,Bachelor,Full-Time,14,79141,5,4,Onsite,No,27,No,No
+E0205,49,Male,Sales,Sales Analyst,Mumbai,Bachelor,Full-Time,13,83694,3,4,Hybrid,No,38,Yes,No
+E0206,26,Female,IT,IT Manager,Delhi,Bachelor,Full-Time,14,121831,2,4,Remote,Yes,58,No,No
+E0207,49,Female,HR,HR Manager,Delhi,Bachelor,Full-Time,11,114974,4,4,Remote,No,41,Yes,No
+E0208,43,Male,Finance,Finance Manager,Delhi,Master,Contract,4,84035,4,2,Onsite,No,46,No,No
+E0209,46,Male,IT,IT Support,Hyderabad,MBA,Full-Time,10,58736,3,3,Onsite,No,28,No,No
+E0210,38,Male,Operations,Operations Executive,Chennai,Master,Full-Time,1,46326,4,3,Hybrid,No,10,No,No
+E0211,38,Male,Marketing,Marketing Executive,Bengaluru,Master,Full-Time,2,57376,3,5,Onsite,Yes,47,No,No
+E0212,40,Male,Sales,Sales Executive,Delhi,Master,Full-Time,5,24212,4,5,Onsite,Yes,31,No,No
+E0213,52,Female,Operations,Quality Analyst,Hyderabad,Master,Full-Time,3,48942,4,3,Onsite,Yes,18,No,No
+E0214,32,Male,IT,IT Support,Chennai,Bachelor,Full-Time,4,57426,3,4,Hybrid,No,18,No,No
+E0215,51,Female,IT,Data Analyst,Bengaluru,MBA,Contract,14,87200,4,4,Onsite,Yes,58,No,No
+E0216,38,Female,Finance,Accountant,Chennai,Bachelor,Full-Time,1,56855,5,2,Onsite,No,9,No,No
+E0217,37,Male,IT,Software Engineer,Chennai,Bachelor,Full-Time,1,70261,5,4,Hybrid,Yes,33,No,No
+E0218,55,Female,Sales,Sales Analyst,Hyderabad,Master,Full-Time,5,55069,5,3,Remote,No,52,No,No
+E0219,36,Male,HR,HR Analyst,Chennai,Master,Contract,10,81687,2,4,Onsite,No,32,No,No
+E0220,53,Female,Operations,Process Analyst,Chennai,Bachelor,Full-Time,15,90895,2,4,Hybrid,No,54,No,Yes
+E0221,40,Female,Operations,Process Analyst,Chennai,Bachelor,Full-Time,7,72642,4,4,Onsite,Yes,57,No,No
+E0222,24,Male,HR,HR Executive,Mumbai,MBA,Full-Time,13,57642,4,4,Onsite,Yes,14,No,No
+E0223,48,Female,Sales,Sales Executive,Bengaluru,MBA,Full-Time,13,78909,3,3,Hybrid,No,32,Yes,No
+E0224,36,Male,IT,IT Support,Pune,Master,Full-Time,11,57800,3,3,Onsite,No,17,No,No
+E0225,35,Female,IT,Business Analyst,Mumbai,Bachelor,Full-Time,5,55319,2,3,Onsite,Yes,25,Yes,No
+E0226,44,Female,Marketing,Digital Marketing Specialist,Pune,Bachelor,Full-Time,8,76512,3,3,Hybrid,No,59,No,No
+E0227,42,Male,Marketing,Marketing Executive,Delhi,Bachelor,Full-Time,12,77451,3,3,Onsite,No,21,No,No
+E0228,53,Female,Sales,Sales Executive,Bengaluru,Bachelor,Full-Time,13,52407,3,3,Onsite,No,25,No,No
+E0229,35,Male,Finance,Finance Manager,Delhi,Bachelor,Contract,9,98172,3,3,Hybrid,No,59,Yes,No
+E0230,54,Male,Sales,Account Manager,Delhi,Master,Full-Time,13,111152,5,4,Remote,No,33,No,No
+E0231,50,Female,Sales,Sales Executive,Delhi,MBA,Full-Time,6,58884,2,3,Hybrid,No,53,Yes,No
+E0232,53,Female,Sales,Sales Executive,Chennai,Master,Full-Time,9,54948,3,1,Hybrid,No,5,No,No
+E0233,40,Male,Finance,Finance Executive,Delhi,Master,Full-Time,1,40672,1,3,Hybrid,No,22,No,No
+E0234,39,Male,Operations,Quality Analyst,Hyderabad,Bachelor,Full-Time,1,35697,3,5,Hybrid,Yes,33,No,No
+E0235,32,Female,Operations,Quality Analyst,Chennai,Master,Full-Time,9,79742,3,4,Hybrid,No,35,Yes,No
+E0236,53,Male,Sales,Sales Analyst,Delhi,Master,Contract,9,73072,4,1,Hybrid,Yes,11,No,No
+E0237,47,Male,Sales,Sales Manager,Hyderabad,Bachelor,Full-Time,3,92766,4,3,Remote,No,15,No,No
+E0238,32,Female,Operations,Process Analyst,Delhi,Master,Full-Time,14,95678,4,4,Remote,Yes,27,No,No
+E0239,51,Female,Sales,Sales Executive,Delhi,MBA,Full-Time,12,67158,3,4,Hybrid,No,57,Yes,No
+E0240,43,Male,IT,Software Engineer,Delhi,MBA,Full-Time,5,81968,3,4,Remote,No,50,No,No
+E0241,39,Female,Marketing,Marketing Analyst,Pune,MBA,Contract,1,63522,4,5,Onsite,No,16,No,No
+E0242,34,Male,HR,HR Executive,Pune,Bachelor,Full-Time,0,47014,5,4,Hybrid,No,58,No,No
+E0243,53,Female,Sales,Sales Manager,Hyderabad,Bachelor,Full-Time,6,101487,4,4,Hybrid,No,29,No,Yes
+E0244,44,Female,IT,Business Analyst,Mumbai,MBA,Full-Time,7,79673,3,3,Remote,No,9,No,No
+E0245,32,Female,Sales,Sales Manager,Delhi,Bachelor,Full-Time,12,121510,3,5,Hybrid,Yes,45,No,No
+E0246,33,Male,Sales,Account Manager,Hyderabad,Master,Full-Time,5,105954,3,4,Hybrid,No,24,Yes,No
+E0247,49,Male,Marketing,Digital Marketing Specialist,Bengaluru,Bachelor,Full-Time,7,77465,4,2,Remote,No,47,Yes,No
+E0248,28,Male,Marketing,Marketing Analyst,Hyderabad,Bachelor,Contract,15,90548,5,4,Hybrid,Yes,28,No,No
+E0249,36,Male,Marketing,Marketing Manager,Hyderabad,MBA,Full-Time,14,112024,3,3,Onsite,No,46,No,No
+E0250,45,Male,Finance,Accountant,Hyderabad,Bachelor,Full-Time,9,77599,1,3,Onsite,No,44,No,Yes
+E0251,34,Female,IT,IT Support,Delhi,Bachelor,Full-Time,15,74694,1,5,Hybrid,Yes,35,Yes,No
+E0252,44,Male,IT,Business Analyst,Chennai,Bachelor,Full-Time,0,57437,3,5,Hybrid,No,59,No,Yes
+E0253,36,Male,Marketing,Marketing Executive,Chennai,Master,Full-Time,9,65147,4,5,Remote,No,31,Yes,No
+E0254,39,Female,Finance,Finance Executive,Delhi,Master,Full-Time,15,58614,3,3,Hybrid,No,17,Yes,No
+E0255,29,Female,Sales,Sales Manager,Delhi,Master,Full-Time,8,95134,2,4,Hybrid,Yes,7,No,Yes
+E0256,35,Male,Finance,Accountant,Mumbai,Master,Full-Time,15,96176,4,3,Onsite,Yes,35,No,No
+E0257,43,Male,Operations,Operations Manager,Bengaluru,MBA,Contract,3,96145,4,2,Hybrid,No,19,No,No
+E0258,34,Female,Marketing,Digital Marketing Specialist,Pune,MBA,Full-Time,6,75646,1,4,Hybrid,No,58,No,No
+E0259,51,Male,IT,IT Manager,Chennai,MBA,Contract,4,94917,3,4,Remote,No,57,No,Yes
+E0260,55,Male,Operations,Operations Manager,Chennai,Master,Full-Time,15,114536,3,2,Onsite,No,12,Yes,No
+E0261,38,Female,Sales,Account Manager,Hyderabad,Master,Full-Time,0,91409,4,5,Onsite,No,54,No,No
+E0262,42,Male,IT,Software Engineer,Mumbai,MBA,Contract,2,54894,3,2,Remote,No,21,No,No
+E0263,34,Male,Operations,Process Analyst,Mumbai,Bachelor,Full-Time,3,65599,3,3,Remote,No,39,No,No
+E0264,45,Male,Marketing,Marketing Manager,Delhi,Bachelor,Contract,15,134556,3,3,Onsite,Yes,60,Yes,No
+E0265,30,Male,HR,HR Analyst,Pune,Bachelor,Full-Time,9,63634,2,3,Remote,Yes,53,No,Yes
+E0266,44,Female,IT,IT Support,Pune,Bachelor,Full-Time,3,53857,3,4,Onsite,Yes,29,No,No
+E0267,36,Male,Operations,Operations Executive,Mumbai,Master,Full-Time,9,68432,3,3,Remote,Yes,53,No,Yes
+E0268,24,Male,Sales,Sales Manager,Pune,Bachelor,Contract,7,86589,3,3,Onsite,Yes,9,No,Yes
+E0269,23,Male,HR,HR Manager,Pune,Bachelor,Full-Time,0,92539,5,3,Hybrid,No,17,No,No
+E0270,42,Female,HR,HR Analyst,Chennai,Bachelor,Full-Time,7,83275,3,2,Onsite,Yes,59,No,No
+E0271,43,Male,Operations,Operations Executive,Delhi,Master,Full-Time,5,54197,2,2,Onsite,No,42,Yes,No
+E0272,48,Male,Sales,Sales Executive,Bengaluru,Bachelor,Full-Time,12,70012,3,3,Hybrid,No,26,Yes,No
+E0273,39,Male,IT,Data Analyst,Hyderabad,Bachelor,Full-Time,3,76249,1,3,Hybrid,Yes,23,No,No
+E0274,45,Female,Finance,Finance Manager,Delhi,Bachelor,Full-Time,12,115642,3,4,Onsite,No,40,No,No
+E0275,49,Male,Sales,Sales Manager,Pune,MBA,Full-Time,15,117206,2,4,Hybrid,No,28,Yes,No
+E0276,37,Female,Finance,Financial Analyst,Hyderabad,MBA,Full-Time,2,54900,2,3,Onsite,Yes,57,No,No
+E0277,25,Female,Marketing,Marketing Executive,Hyderabad,MBA,Full-Time,12,66820,4,3,Hybrid,No,24,Yes,No
+E0278,40,Male,IT,Software Engineer,Hyderabad,MBA,Contract,4,71434,5,4,Onsite,No,26,Yes,No
+E0279,30,Female,Finance,Accountant,Chennai,Master,Full-Time,6,67309,5,4,Hybrid,Yes,51,No,No
+E0280,55,Male,HR,Recruiter,Bengaluru,MBA,Full-Time,9,44820,3,1,Onsite,No,59,No,No
+E0281,39,Male,HR,HR Executive,Mumbai,Other,Full-Time,2,47017,1,4,Onsite,No,52,No,No
+E0282,29,Female,Operations,Operations Manager,Pune,Bachelor,Full-Time,6,94702,2,3,Onsite,Yes,17,Yes,No
+E0283,49,Male,HR,HR Manager,Delhi,Master,Full-Time,5,103156,2,3,Onsite,No,41,Yes,No
+E0284,50,Male,IT,IT Support,Mumbai,Master,Full-Time,3,43461,4,3,Hybrid,No,36,No,No
+E0285,43,Male,IT,IT Manager,Mumbai,Bachelor,Full-Time,3,88943,3,3,Hybrid,Yes,51,No,No
+E0286,25,Female,Sales,Sales Analyst,Hyderabad,Master,Full-Time,12,86585,5,1,Onsite,No,8,No,No
+E0287,31,Female,Finance,Accountant,Pune,MBA,Full-Time,1,70287,3,4,Hybrid,Yes,35,No,No
+E0288,32,Male,HR,HR Executive,Bengaluru,Bachelor,Full-Time,11,75600,2,4,Remote,No,46,No,No
+E0289,48,Female,IT,Business Analyst,Bengaluru,Bachelor,Full-Time,0,46446,1,3,Onsite,No,37,No,No
+E0290,48,Male,IT,Data Analyst,Chennai,Bachelor,Full-Time,8,69676,5,3,Hybrid,No,13,No,No
+E0291,45,Male,Finance,Finance Manager,Delhi,MBA,Full-Time,5,104563,5,2,Hybrid,No,43,No,No
+E0292,27,Male,Operations,Process Analyst,Pune,Master,Contract,3,50933,5,4,Onsite,No,40,No,No
+E0293,37,Female,HR,Recruiter,Delhi,Bachelor,Full-Time,10,68103,2,3,Remote,Yes,21,No,No
+E0294,26,Female,Marketing,Marketing Analyst,Chennai,Master,Full-Time,12,86020,5,4,Onsite,No,47,Yes,Yes
+E0295,41,Male,Operations,Operations Executive,Chennai,Bachelor,Full-Time,2,47446,4,3,Onsite,No,9,No,No
+E0296,32,Male,Marketing,Marketing Manager,Pune,MBA,Full-Time,12,119256,2,2,Hybrid,No,57,No,No
+E0297,26,Male,Finance,Finance Manager,Mumbai,MBA,Full-Time,10,108611,3,4,Hybrid,No,31,No,No
+E0298,40,Female,Operations,Operations Manager,Hyderabad,MBA,Contract,7,91961,2,5,Hybrid,Yes,47,No,No
+E0299,47,Male,HR,Recruiter,Hyderabad,MBA,Contract,9,84552,3,3,Hybrid,No,44,No,No
+E0300,45,Female,Operations,Quality Analyst,Delhi,Bachelor,Full-Time,15,87834,1,4,Hybrid,No,58,Yes,No
+E0301,49,Male,Operations,Process Analyst,Delhi,Bachelor,Full-Time,10,76251,1,3,Onsite,No,34,Yes,No
+E0302,44,Female,Marketing,Digital Marketing Specialist,Bengaluru,Bachelor,Full-Time,8,72475,5,4,Onsite,No,14,Yes,No
+E0303,25,Male,Finance,Accountant,Mumbai,Master,Full-Time,0,67755,2,2,Hybrid,No,39,No,Yes
+E0304,49,Female,Marketing,Marketing Analyst,Bengaluru,Master,Full-Time,11,86920,5,3,Onsite,No,41,Yes,No
+E0305,33,Female,IT,Data Analyst,Delhi,Master,Full-Time,13,71768,2,4,Remote,No,30,No,No
+E0306,54,Male,HR,HR Analyst,Hyderabad,Bachelor,Full-Time,9,66206,4,5,Hybrid,Yes,25,No,Yes
+E0307,39,Female,Finance,Accountant,Bengaluru,Bachelor,Full-Time,2,57891,4,5,Onsite,No,35,No,No
+E0308,46,Male,IT,Data Analyst,Chennai,Master,Full-Time,6,56677,4,3,Onsite,No,32,No,No
+E0309,53,Female,Sales,Sales Analyst,Mumbai,Bachelor,Full-Time,10,82910,2,3,Hybrid,Yes,32,Yes,No
+E0310,41,Male,Finance,Finance Executive,Delhi,Other,Full-Time,14,63101,3,2,Onsite,Yes,17,No,No
+E0311,43,Male,HR,HR Executive,Bengaluru,MBA,Full-Time,7,34882,3,4,Onsite,No,54,No,No
+E0312,26,Male,HR,HR Analyst,Chennai,Bachelor,Full-Time,10,88487,1,5,Onsite,Yes,32,Yes,No
+E0313,24,Male,IT,Data Analyst,Bengaluru,Master,Full-Time,9,87806,3,3,Remote,Yes,58,Yes,No
+E0314,32,Male,HR,HR Analyst,Chennai,Bachelor,Contract,2,65051,5,3,Onsite,No,58,No,No
+E0315,33,Male,Operations,Process Analyst,Hyderabad,Master,Full-Time,6,76175,3,3,Hybrid,Yes,41,Yes,No
+E0316,37,Male,Sales,Sales Analyst,Pune,Other,Full-Time,11,71369,4,3,Onsite,Yes,59,Yes,No
+E0317,44,Male,Sales,Account Manager,Hyderabad,Bachelor,Full-Time,15,127712,4,3,Hybrid,No,49,No,No
+E0318,52,Male,IT,Software Engineer,Mumbai,Master,Full-Time,4,54073,4,4,Onsite,No,41,Yes,No
+E0319,27,Male,Finance,Financial Analyst,Hyderabad,MBA,Full-Time,12,75629,2,3,Onsite,Yes,53,Yes,No
+E0320,55,Female,Operations,Operations Manager,Hyderabad,Bachelor,Full-Time,8,99953,3,4,Hybrid,No,58,No,No
+E0321,27,Male,Finance,Financial Analyst,Pune,MBA,Full-Time,4,80123,2,2,Hybrid,Yes,56,No,No
+E0322,47,Female,Sales,Sales Executive,Bengaluru,MBA,Full-Time,3,38205,3,3,Onsite,No,9,No,No
+E0323,52,Male,Operations,Operations Executive,Mumbai,MBA,Full-Time,8,62457,3,3,Onsite,Yes,60,No,No
+E0324,42,Male,Finance,Finance Executive,Chennai,Bachelor,Contract,6,53266,3,3,Hybrid,No,35,Yes,No
+E0325,27,Female,Sales,Account Manager,Chennai,Bachelor,Full-Time,2,83558,4,4,Remote,Yes,23,No,No
+E0326,40,Male,Operations,Operations Executive,Mumbai,Master,Full-Time,5,37874,4,1,Hybrid,No,58,No,Yes
+E0327,48,Male,Marketing,Digital Marketing Specialist,Hyderabad,Bachelor,Full-Time,9,66997,4,5,Onsite,No,21,Yes,No
+E0328,47,Female,HR,Recruiter,Chennai,Other,Full-Time,15,84597,3,4,Onsite,No,24,No,No
+E0329,24,Female,Sales,Account Manager,Mumbai,Master,Full-Time,5,102751,5,3,Hybrid,Yes,15,Yes,No
+E0330,53,Male,Operations,Quality Analyst,Chennai,Bachelor,Full-Time,2,55780,4,2,Hybrid,No,52,No,No
+E0331,36,Female,IT,Data Analyst,Pune,Bachelor,Full-Time,14,86418,4,3,Hybrid,Yes,45,No,Yes
+E0332,36,Male,Marketing,Marketing Analyst,Delhi,Bachelor,Full-Time,11,80792,3,3,Hybrid,Yes,59,No,No
+E0333,51,Male,Finance,Financial Analyst,Bengaluru,MBA,Full-Time,12,60768,4,4,Hybrid,No,47,No,No
+E0334,26,Male,IT,Software Engineer,Hyderabad,MBA,Full-Time,4,61401,5,3,Hybrid,Yes,9,Yes,No
+E0335,54,Female,IT,Business Analyst,Mumbai,Bachelor,Full-Time,1,49347,4,3,Remote,Yes,31,No,No
+E0336,44,Female,HR,HR Analyst,Hyderabad,Master,Full-Time,1,63723,2,1,Remote,No,22,No,No
+E0337,51,Male,Operations,Operations Manager,Bengaluru,Bachelor,Full-Time,9,100141,4,3,Onsite,No,5,Yes,No
+E0338,27,Male,HR,HR Manager,Hyderabad,Bachelor,Full-Time,15,118352,5,2,Onsite,No,53,No,No
+E0339,43,Male,Finance,Financial Analyst,Chennai,MBA,Contract,10,76864,3,2,Hybrid,No,59,Yes,No
+E0340,55,Female,IT,Software Engineer,Hyderabad,Master,Full-Time,2,72186,4,2,Hybrid,No,10,No,No
+E0341,37,Female,Finance,Accountant,Bengaluru,Bachelor,Full-Time,11,77803,3,3,Hybrid,No,18,No,No
+E0342,41,Male,Operations,Quality Analyst,Bengaluru,Bachelor,Full-Time,0,56802,2,3,Remote,Yes,22,No,Yes
+E0343,48,Female,Operations,Quality Analyst,Pune,Bachelor,Contract,8,72886,4,3,Remote,No,33,No,No
+E0344,52,Male,Marketing,Marketing Manager,Bengaluru,Master,Full-Time,1,103206,5,4,Hybrid,No,56,No,No
+E0345,33,Male,IT,Data Analyst,Pune,Bachelor,Full-Time,7,76818,4,4,Onsite,Yes,6,No,No
+E0346,32,Male,Sales,Sales Executive,Chennai,Bachelor,Full-Time,9,83089,4,3,Hybrid,Yes,28,Yes,No
+E0347,25,Female,IT,Software Engineer,Pune,MBA,Full-Time,0,61473,4,4,Onsite,Yes,22,No,No
+E0348,30,Male,Sales,Sales Executive,Pune,Bachelor,Full-Time,13,62471,4,3,Onsite,No,60,No,No
+E0349,47,Female,Operations,Quality Analyst,Chennai,Bachelor,Full-Time,8,63301,4,4,Hybrid,Yes,23,No,No
+E0350,28,Male,Operations,Quality Analyst,Bengaluru,Master,Full-Time,13,91070,4,4,Hybrid,No,53,No,Yes
+E0351,35,Female,Finance,Finance Executive,Delhi,MBA,Full-Time,10,65951,3,1,Remote,No,8,Yes,No
+E0352,45,Male,Sales,Sales Analyst,Pune,Master,Full-Time,13,75763,3,2,Hybrid,Yes,6,Yes,Yes
+E0353,24,Male,IT,Business Analyst,Bengaluru,Bachelor,Full-Time,6,75743,5,3,Hybrid,No,10,No,No
+E0354,53,Male,Finance,Finance Executive,Hyderabad,Bachelor,Full-Time,15,81467,4,3,Hybrid,No,11,Yes,No
+E0355,27,Male,Sales,Sales Executive,Bengaluru,MBA,Full-Time,0,56170,4,4,Onsite,No,39,No,No
+E0356,38,Male,HR,HR Analyst,Bengaluru,Master,Contract,0,56032,4,4,Hybrid,No,43,No,No
+E0357,38,Male,IT,IT Support,Mumbai,Bachelor,Full-Time,9,48966,4,4,Onsite,No,12,No,No
+E0358,35,Male,HR,HR Manager,Chennai,Bachelor,Full-Time,15,121226,3,3,Onsite,No,43,Yes,No
+E0359,31,Male,Finance,Finance Manager,Mumbai,Bachelor,Full-Time,6,93119,3,4,Onsite,No,43,Yes,No
+E0360,53,Male,IT,Software Engineer,Chennai,MBA,Full-Time,9,81236,4,2,Hybrid,Yes,27,Yes,No
+E0361,39,Female,HR,Recruiter,Pune,Master,Full-Time,13,86899,5,3,Hybrid,No,6,No,No
+E0362,44,Female,Finance,Finance Executive,Bengaluru,Master,Full-Time,10,50838,3,3,Onsite,No,12,Yes,No
+E0363,33,Male,Operations,Operations Manager,Delhi,MBA,Full-Time,1,98845,1,4,Remote,No,28,No,No
+E0364,34,Male,Sales,Sales Analyst,Mumbai,MBA,Full-Time,8,58720,2,3,Onsite,Yes,44,No,No
+E0365,44,Male,Sales,Sales Executive,Pune,Bachelor,Full-Time,12,54620,3,4,Hybrid,Yes,34,No,No
+E0366,49,Male,IT,Software Engineer,Bengaluru,Master,Full-Time,8,74831,3,5,Onsite,No,9,No,No
+E0367,54,Male,Finance,Financial Analyst,Bengaluru,Bachelor,Contract,6,76850,5,3,Hybrid,No,9,No,No
+E0368,44,Male,Operations,Operations Executive,Bengaluru,MBA,Full-Time,11,72747,3,4,Hybrid,No,47,No,No
+E0369,49,Male,Finance,Finance Executive,Chennai,Bachelor,Full-Time,9,54299,4,2,Onsite,No,50,No,No
+E0370,28,Male,IT,IT Support,Hyderabad,Master,Contract,6,41099,1,4,Hybrid,No,35,Yes,No
+E0371,34,Male,Sales,Account Manager,Chennai,Bachelor,Full-Time,14,121693,3,3,Hybrid,No,54,No,No
+E0372,44,Female,Operations,Process Analyst,Hyderabad,Bachelor,Full-Time,5,65242,4,2,Onsite,No,19,No,No
+E0373,40,Male,IT,IT Support,Delhi,Bachelor,Full-Time,12,64732,4,1,Hybrid,No,43,Yes,No
+E0374,35,Female,IT,Software Engineer,Hyderabad,Bachelor,Full-Time,4,63095,4,2,Onsite,Yes,35,Yes,No
+E0375,50,Male,Operations,Operations Executive,Delhi,Master,Full-Time,10,49480,3,4,Onsite,No,25,Yes,No
+E0376,42,Male,Marketing,Marketing Manager,Pune,Bachelor,Full-Time,1,109620,3,5,Hybrid,No,37,No,No
+E0377,41,Female,IT,IT Manager,Hyderabad,Master,Full-Time,3,107099,3,3,Hybrid,No,13,No,Yes
+E0378,38,Female,Marketing,Marketing Executive,Chennai,MBA,Full-Time,10,61977,3,3,Onsite,No,43,No,No
+E0379,25,Female,IT,IT Support,Hyderabad,Bachelor,Contract,7,54750,2,3,Onsite,Yes,22,No,No
+E0380,45,Female,IT,IT Support,Bengaluru,Bachelor,Full-Time,11,62946,4,3,Hybrid,No,5,No,No
+E0381,53,Male,Sales,Sales Analyst,Delhi,Bachelor,Full-Time,10,85262,5,3,Hybrid,No,38,No,No
+E0382,39,Female,IT,Business Analyst,Delhi,Bachelor,Full-Time,4,74879,3,4,Onsite,No,32,Yes,No
+E0383,45,Female,HR,Recruiter,Delhi,Master,Full-Time,8,54052,3,3,Hybrid,Yes,16,Yes,No
+E0384,55,Female,HR,Recruiter,Bengaluru,Bachelor,Contract,5,49822,3,5,Hybrid,Yes,19,No,Yes
+E0385,33,Female,HR,HR Executive,Chennai,Bachelor,Full-Time,12,78656,4,2,Hybrid,No,10,Yes,No
+E0386,24,Male,Marketing,Digital Marketing Specialist,Pune,MBA,Full-Time,3,45619,3,2,Onsite,No,35,No,No
+E0387,38,Female,Sales,Sales Manager,Pune,Bachelor,Full-Time,8,97346,5,3,Hybrid,Yes,16,No,No
+E0388,37,Female,Marketing,Marketing Executive,Mumbai,Master,Full-Time,15,70554,3,3,Onsite,No,11,No,No
+E0389,27,Female,Finance,Accountant,Hyderabad,Master,Full-Time,8,75533,1,3,Remote,No,49,Yes,No
+E0390,50,Male,Sales,Account Manager,Pune,Bachelor,Full-Time,7,93177,4,4,Hybrid,No,43,No,No
+E0391,39,Male,IT,IT Support,Pune,Bachelor,Full-Time,6,33040,2,4,Onsite,No,28,No,No
+E0392,44,Female,IT,IT Manager,Bengaluru,Bachelor,Contract,11,126557,4,4,Onsite,No,13,Yes,No
+E0393,32,Female,IT,IT Support,Hyderabad,Master,Full-Time,0,36064,3,1,Hybrid,Yes,51,No,No
+E0394,24,Male,Operations,Quality Analyst,Delhi,MBA,Full-Time,14,73965,3,4,Onsite,No,9,No,No
+E0395,27,Male,Sales,Sales Executive,Hyderabad,Bachelor,Full-Time,15,72017,3,4,Onsite,No,48,No,Yes
+E0396,37,Female,Operations,Operations Executive,Chennai,Master,Full-Time,6,36344,3,4,Onsite,No,42,No,No
+E0397,42,Female,Marketing,Digital Marketing Specialist,Mumbai,Bachelor,Full-Time,15,85973,4,4,Onsite,No,34,No,No
+E0398,50,Female,Sales,Sales Manager,Pune,Bachelor,Full-Time,15,133322,3,2,Hybrid,Yes,13,No,No
+E0399,50,Female,Sales,Account Manager,Mumbai,Bachelor,Full-Time,4,96522,3,4,Hybrid,No,31,No,No
+E0400,23,Male,IT,IT Manager,Chennai,Bachelor,Contract,9,110450,4,4,Onsite,Yes,43,No,No
+E0401,24,Male,Sales,Account Manager,Hyderabad,Master,Full-Time,13,107645,4,2,Onsite,No,14,Yes,No
+E0402,22,Male,Sales,Account Manager,Bengaluru,Bachelor,Full-Time,14,121592,3,5,Hybrid,No,15,Yes,No
+E0403,47,Male,IT,Software Engineer,Pune,Bachelor,Full-Time,0,62492,5,3,Onsite,No,54,No,No
+E0404,46,Female,HR,HR Executive,Mumbai,Bachelor,Contract,15,68686,3,4,Hybrid,Yes,47,Yes,No
+E0405,39,Female,IT,Software Engineer,Chennai,Bachelor,Full-Time,5,64908,1,1,Onsite,Yes,21,Yes,No
+E0406,54,Female,HR,HR Analyst,Pune,MBA,Full-Time,2,53548,3,2,Hybrid,No,6,No,No
+E0407,26,Male,IT,IT Support,Chennai,Bachelor,Full-Time,0,39021,5,5,Onsite,Yes,53,No,No
+E0408,50,Female,IT,Data Analyst,Bengaluru,Master,Full-Time,14,78050,3,4,Onsite,Yes,20,No,No
+E0409,41,Female,Marketing,Digital Marketing Specialist,Chennai,Bachelor,Full-Time,9,70500,4,3,Hybrid,Yes,9,No,Yes
+E0410,24,Female,IT,IT Manager,Mumbai,Bachelor,Full-Time,9,98426,3,2,Onsite,No,50,No,No
+E0411,52,Male,IT,IT Support,Pune,Master,Full-Time,11,58388,3,3,Hybrid,Yes,60,No,No
+E0412,47,Female,IT,Business Analyst,Hyderabad,Master,Full-Time,8,79096,4,3,Onsite,No,46,No,No
+E0413,43,Female,HR,HR Analyst,Hyderabad,Bachelor,Full-Time,4,57567,4,3,Onsite,No,13,Yes,No
+E0414,53,Female,HR,HR Manager,Chennai,Bachelor,Full-Time,9,99106,3,3,Hybrid,Yes,45,No,No
+E0415,49,Male,IT,IT Manager,Bengaluru,Bachelor,Contract,4,91190,3,4,Hybrid,No,47,No,No
+E0416,23,Male,Finance,Accountant,Bengaluru,Bachelor,Full-Time,0,65206,5,5,Onsite,Yes,22,No,No
+E0417,27,Male,Operations,Process Analyst,Hyderabad,Bachelor,Full-Time,9,93632,4,2,Remote,No,17,Yes,No
+E0418,55,Female,Marketing,Marketing Analyst,Hyderabad,Bachelor,Contract,2,64132,3,2,Onsite,No,10,No,No
+E0419,51,Male,Sales,Account Manager,Hyderabad,Master,Contract,3,97488,4,4,Hybrid,Yes,6,No,Yes
+E0420,36,Male,Operations,Quality Analyst,Bengaluru,Master,Full-Time,11,88599,2,5,Onsite,No,36,Yes,No
+E0421,22,Female,IT,Software Engineer,Mumbai,Master,Contract,4,56083,3,4,Remote,No,46,No,No
+E0422,24,Female,HR,HR Manager,Hyderabad,Master,Full-Time,11,117355,4,3,Remote,No,9,No,No
+E0423,49,Female,IT,IT Manager,Pune,Bachelor,Full-Time,11,109519,5,4,Hybrid,No,49,Yes,No
+E0424,24,Female,Operations,Process Analyst,Mumbai,MBA,Full-Time,0,52675,3,4,Onsite,Yes,52,No,Yes
+E0425,24,Male,HR,HR Analyst,Pune,Bachelor,Contract,11,79213,3,4,Remote,Yes,20,No,Yes
+E0426,30,Male,Operations,Quality Analyst,Pune,Bachelor,Full-Time,7,73925,4,2,Remote,No,54,Yes,No
+E0427,47,Male,IT,IT Support,Chennai,Bachelor,Full-Time,4,47100,2,4,Hybrid,No,53,Yes,Yes
+E0428,34,Female,Sales,Sales Executive,Delhi,Master,Full-Time,1,35452,3,4,Hybrid,No,22,No,No
+E0429,46,Female,Finance,Finance Manager,Delhi,Bachelor,Full-Time,3,93466,2,3,Remote,Yes,11,No,No
+E0430,53,Male,Finance,Financial Analyst,Delhi,Bachelor,Full-Time,8,69959,3,3,Remote,No,57,Yes,Yes
+E0431,36,Male,Marketing,Digital Marketing Specialist,Delhi,Master,Full-Time,12,75381,5,3,Onsite,No,35,Yes,No
+E0432,48,Female,Marketing,Marketing Analyst,Mumbai,Master,Full-Time,8,76126,3,1,Onsite,Yes,13,No,No
+E0433,32,Female,HR,Recruiter,Bengaluru,Bachelor,Full-Time,14,81219,4,2,Hybrid,No,41,No,No
+E0434,44,Female,Sales,Sales Analyst,Delhi,Master,Full-Time,10,85593,4,3,Hybrid,No,33,Yes,No
+E0435,33,Female,Marketing,Digital Marketing Specialist,Pune,Bachelor,Full-Time,2,63801,2,4,Hybrid,Yes,48,No,Yes
+E0436,42,Female,Marketing,Marketing Executive,Hyderabad,MBA,Full-Time,9,69864,3,3,Onsite,Yes,35,Yes,No
+E0437,38,Male,Operations,Operations Executive,Delhi,Bachelor,Full-Time,15,69208,2,2,Remote,No,38,No,No
+E0438,28,Male,IT,IT Support,Bengaluru,MBA,Full-Time,6,61426,5,3,Remote,Yes,46,No,No
+E0439,48,Female,Sales,Sales Manager,Mumbai,MBA,Full-Time,3,97302,2,3,Onsite,No,41,No,No
+E0440,39,Female,IT,IT Support,Hyderabad,Master,Full-Time,11,69332,3,3,Remote,No,35,No,No
+E0441,28,Male,Marketing,Marketing Executive,Hyderabad,MBA,Full-Time,13,76759,3,3,Onsite,Yes,29,Yes,No
+E0442,40,Male,HR,HR Manager,Chennai,Master,Contract,14,108304,5,4,Onsite,No,23,No,No
+E0443,50,Female,Operations,Operations Manager,Delhi,Bachelor,Full-Time,10,111991,1,3,Hybrid,No,41,No,No
+E0444,54,Female,Operations,Operations Manager,Bengaluru,Other,Full-Time,13,111852,4,4,Remote,No,38,No,No
+E0445,45,Male,Marketing,Marketing Manager,Mumbai,Bachelor,Full-Time,1,95987,3,3,Hybrid,No,42,No,No
+E0446,37,Female,Finance,Finance Executive,Hyderabad,Master,Full-Time,12,62545,3,5,Onsite,No,25,No,No
+E0447,30,Male,HR,HR Analyst,Delhi,Master,Full-Time,0,64678,5,3,Onsite,No,58,No,No
+E0448,33,Male,Finance,Accountant,Hyderabad,Master,Full-Time,7,60616,2,4,Remote,No,56,No,Yes
+E0449,47,Male,IT,Business Analyst,Chennai,MBA,Full-Time,7,61775,4,5,Onsite,No,54,No,No
+E0450,35,Male,Marketing,Marketing Manager,Hyderabad,Bachelor,Full-Time,10,101403,3,4,Hybrid,No,47,No,No
+E0451,43,Male,Sales,Account Manager,Bengaluru,Bachelor,Full-Time,13,124711,4,2,Hybrid,No,31,No,No
+E0452,38,Male,Sales,Sales Manager,Mumbai,MBA,Full-Time,15,125272,5,3,Onsite,No,45,No,No
+E0453,53,Male,Finance,Finance Manager,Bengaluru,Bachelor,Full-Time,8,109612,3,4,Hybrid,Yes,60,Yes,No
+E0454,31,Male,IT,Business Analyst,Delhi,Bachelor,Full-Time,7,75948,3,2,Hybrid,No,27,No,No
+E0455,55,Female,HR,Recruiter,Delhi,Master,Full-Time,10,60591,3,4,Onsite,Yes,58,Yes,No
+E0456,51,Male,IT,IT Support,Hyderabad,MBA,Full-Time,0,56683,5,3,Onsite,No,49,No,No
+E0457,55,Male,Finance,Accountant,Delhi,Bachelor,Full-Time,3,52845,3,2,Hybrid,No,22,No,No
+E0458,33,Male,Operations,Quality Analyst,Bengaluru,MBA,Full-Time,12,81791,3,3,Onsite,Yes,41,No,No
+E0459,30,Female,Finance,Finance Executive,Hyderabad,Master,Full-Time,11,55346,4,3,Remote,No,28,No,No
+E0460,32,Female,Operations,Operations Manager,Pune,Bachelor,Full-Time,1,95262,3,3,Onsite,No,20,No,No
+E0461,32,Male,Operations,Process Analyst,Chennai,Master,Full-Time,7,61068,5,4,Hybrid,No,6,Yes,No
+E0462,22,Female,Marketing,Marketing Executive,Mumbai,Bachelor,Full-Time,2,40595,3,4,Onsite,No,5,No,No
+E0463,50,Female,Sales,Sales Analyst,Chennai,Master,Full-Time,3,53167,4,2,Hybrid,No,56,No,No
+E0464,42,Female,IT,Software Engineer,Bengaluru,Master,Full-Time,13,83893,4,5,Hybrid,Yes,28,Yes,No
+E0465,34,Female,Finance,Finance Executive,Delhi,Bachelor,Full-Time,0,33612,3,3,Remote,No,55,No,No
+E0466,44,Female,Finance,Financial Analyst,Mumbai,Bachelor,Full-Time,3,54456,2,3,Hybrid,No,14,No,Yes
+E0467,27,Female,IT,Software Engineer,Hyderabad,Master,Full-Time,1,55023,3,3,Onsite,No,52,No,No
+E0468,33,Female,Operations,Operations Manager,Chennai,MBA,Full-Time,9,110260,4,3,Onsite,No,17,No,No
+E0469,36,Female,Finance,Accountant,Bengaluru,Bachelor,Full-Time,2,73001,2,3,Hybrid,Yes,32,No,No
+E0470,41,Female,Finance,Accountant,Chennai,MBA,Full-Time,1,64225,3,2,Hybrid,Yes,9,No,No
+E0471,33,Female,IT,IT Support,Pune,Bachelor,Full-Time,5,62016,3,4,Hybrid,No,35,Yes,No
+E0472,32,Male,Sales,Sales Executive,Hyderabad,Bachelor,Full-Time,2,42430,1,3,Hybrid,No,58,No,No
+E0473,51,Male,Finance,Accountant,Hyderabad,Bachelor,Full-Time,15,101759,4,3,Hybrid,No,34,Yes,Yes
+E0474,40,Male,Marketing,Marketing Executive,Chennai,Bachelor,Full-Time,3,52134,3,3,Onsite,No,26,No,No
+E0475,22,Male,Finance,Finance Manager,Mumbai,Bachelor,Contract,2,105612,2,3,Onsite,Yes,37,No,No
+E0476,34,Female,IT,IT Support,Pune,Master,Contract,8,45393,2,4,Hybrid,No,23,Yes,No
+E0477,26,Female,Operations,Operations Manager,Mumbai,Bachelor,Full-Time,8,103009,4,3,Hybrid,No,10,Yes,No
+E0478,50,Female,HR,HR Analyst,Delhi,Master,Full-Time,9,66172,5,3,Onsite,No,52,Yes,No
+E0479,39,Female,HR,Recruiter,Delhi,MBA,Full-Time,9,66452,3,3,Hybrid,No,14,No,No
+E0480,34,Male,IT,Software Engineer,Chennai,Bachelor,Full-Time,0,55860,4,3,Hybrid,Yes,27,No,No
+E0481,52,Female,Finance,Financial Analyst,Chennai,Master,Full-Time,0,50844,3,3,Hybrid,No,34,No,Yes
+E0482,30,Male,Marketing,Digital Marketing Specialist,Bengaluru,Bachelor,Contract,5,76505,3,3,Onsite,No,10,No,No
+E0483,29,Male,Operations,Operations Manager,Delhi,Bachelor,Full-Time,9,116283,2,5,Hybrid,No,14,Yes,No
+E0484,25,Female,Sales,Sales Analyst,Delhi,Other,Full-Time,9,61943,3,3,Onsite,No,10,No,No
+E0485,40,Male,IT,Software Engineer,Pune,Bachelor,Full-Time,14,91329,3,3,Onsite,Yes,32,No,No
+E0486,53,Female,Finance,Accountant,Hyderabad,MBA,Full-Time,5,59094,4,3,Remote,No,59,Yes,No
+E0487,24,Male,Finance,Finance Executive,Hyderabad,MBA,Full-Time,12,66890,3,4,Hybrid,No,22,Yes,No
+E0488,38,Male,Operations,Process Analyst,Mumbai,Bachelor,Full-Time,3,67175,4,4,Onsite,No,25,No,Yes
+E0489,51,Female,Finance,Finance Executive,Bengaluru,Bachelor,Full-Time,11,64703,5,4,Hybrid,No,8,No,No
+E0490,34,Female,IT,Business Analyst,Mumbai,Bachelor,Full-Time,12,83070,3,4,Remote,No,13,Yes,No
+E0491,37,Female,IT,Business Analyst,Delhi,Other,Full-Time,1,59912,2,3,Hybrid,No,18,No,No
+E0492,39,Male,Marketing,Digital Marketing Specialist,Delhi,Master,Full-Time,14,81092,3,4,Remote,No,19,No,No
+E0493,52,Male,IT,IT Manager,Pune,Bachelor,Full-Time,13,117950,1,3,Onsite,No,50,No,No
+E0494,36,Male,HR,HR Manager,Bengaluru,Bachelor,Full-Time,0,90259,3,2,Onsite,No,22,No,No
+E0495,26,Female,IT,Software Engineer,Bengaluru,Bachelor,Full-Time,6,65358,3,4,Remote,Yes,41,No,No
+E0496,48,Female,IT,IT Support,Pune,Bachelor,Full-Time,2,57608,5,3,Hybrid,No,22,No,No
+E0497,31,Female,HR,Recruiter,Chennai,MBA,Full-Time,3,68958,3,4,Hybrid,Yes,48,No,No
+E0498,53,Female,IT,Software Engineer,Chennai,Master,Full-Time,0,74194,4,2,Hybrid,No,9,No,No
+E0499,47,Male,IT,Software Engineer,Hyderabad,MBA,Full-Time,9,76993,3,3,Onsite,No,19,No,Yes
+E0500,50,Male,HR,HR Analyst,Mumbai,Bachelor,Full-Time,0,54769,1,5,Hybrid,No,30,No,No
